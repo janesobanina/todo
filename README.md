@@ -81,7 +81,7 @@ Don't forget to give the project a star! Thanks again!
 
 [E-mail: sobanina.jane@gmail.com](mailto:sobanina.jane@gmail.com)
 
-Project Link: [https://github.com/janesobanina/grocery-list](https://github.com/janesobanina/grocery-list/)
+Project Link: [https://github.com/janesobanina/todo](https://github.com/janesobanina/todo/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
